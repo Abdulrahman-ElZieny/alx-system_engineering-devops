@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "zenwa"
+echo $(whoami)
